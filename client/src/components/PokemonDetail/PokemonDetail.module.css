@@ -1,0 +1,38 @@
+.back{
+    margin-top: 1.5em;
+    width: 20%;
+}
+
+.backtt{
+    font-size: 0.8em;
+    font-style: italic;
+    color:#f72585;
+    -webkit-text-stroke: 0.1px black;
+}
+
+.pokeinfo {
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    border-radius: 0.5rem;
+    background-color: #fdfcdc;
+    margin-top: 4rem;
+    margin-right: 10rem;
+    margin-left: 10rem;
+}
+
+.img{
+    width:20%;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+    margin-right: 1rem;
+    margin-left: 2rem;
+}
+
+.last{
+    margin-right: 2rem;
+}

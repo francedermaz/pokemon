@@ -1,0 +1,17 @@
+.notfound{
+    background-color: #ffcad4;
+    justify-content: center;
+    align-items: center;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    border-radius: 0.5rem;
+}
+
+.imagepk{
+    width: 75%;
+}
+
+.title{
+    font-style: italic;
+}

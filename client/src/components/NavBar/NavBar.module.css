@@ -1,0 +1,38 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 7em;
+    background-color: #003049;
+}
+.menu{
+    display:grid;
+    grid-template-columns: 150px 150px;
+    margin-right: 5em;
+}
+
+.logo{
+    margin-left: 5em;
+}
+.create{
+    margin-right: 0;
+}
+
+.title{
+    color: yellow;
+    font-size: 1.5em;
+    font-weight: 20em;
+    -webkit-text-stroke: 1px black;
+}
+
+.title:hover{
+    color: #fdffb6;
+}
+
+.filter{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #fbf8cc;
+    border-top: 1px dashed black;
+    border-bottom: 1px dashed black
+}

@@ -1,0 +1,49 @@
+.input{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+}
+
+.title{
+    font-style: italic;
+}
+
+.typestitle{
+    font-style: italic;
+}
+
+.back{
+    margin-top: 1.5em;
+    width: 20%;
+}
+
+.backtt{
+    font-size: 0.8em;
+    font-style: italic;
+    color:#f72585;
+    -webkit-text-stroke: 0.1px black;
+}
+
+.opt{
+    display:grid;
+    grid-template-columns: 70px 70px;
+    align-items: center;
+    justify-content: center;
+}
+
+.titleopt{
+    font-style: oblique;
+}
+
+.bttx:hover{
+    background-color: hotpink;
+}
+
+.error{
+    font-style: italic;
+    color: red;
+}

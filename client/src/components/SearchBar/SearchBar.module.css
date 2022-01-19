@@ -1,0 +1,10 @@
+.btt{
+    width: 25%;
+    height: 20px;
+    background-color: #feeafa;
+}
+
+.btt:hover{
+    background-color: #cbc0d3;
+    cursor: pointer;
+}
